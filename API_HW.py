@@ -1,6 +1,5 @@
 from flask import Flask,jsonify,request
 import json
-import input_data
 import pprint
 import pymysql
 import mysql.connector
