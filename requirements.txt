@@ -5,7 +5,7 @@ beautifulsoup4==4.8.0
 bs4==0.0.1
 cffi==1.12.3
 Click==7.0
-cryptography==2.7
+cryptography==3.2
 Django==2.0.2
 Flask==1.1.1
 ikp3db==1.1.4
